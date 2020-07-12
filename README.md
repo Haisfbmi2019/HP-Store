@@ -3,6 +3,7 @@
 Дипломний проект по закінченню курсу <a target="_blank" href="https://prog.kiev.ua/">Java Pro в prog.kiev.ua</a>. <br>
 Посилання на сам <a target="_blank" href="https://pashynskyi.github.io/demo-hp-store/#/">проект</a><br>
 Відповідальний за back-end <a target="_blank" href="https://www.linkedin.com/in/andrii-hais-0bb7921b2/">Andrii Hais</a>
+Відповідальний за front-end <a target="_blank" href="https://www.linkedin.com/in/artem-pashynskyi-b132071a8/">Artem Pashynskyi</a>
 
 ### ⚙️ Tech Stack 
 
