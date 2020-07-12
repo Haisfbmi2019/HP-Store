@@ -2,7 +2,7 @@
 
 Дипломний проект по закінченню курсу <a target="_blank" href="https://prog.kiev.ua/">Java Pro в prog.kiev.ua</a>. <br>
 Посилання на сам <a target="_blank" href="https://pashynskyi.github.io/demo-hp-store/#/">проект</a><br>
-Відповідальний за back-end <a target="_blank" href="https://www.linkedin.com/in/anatoliy-taran/">Andrii Hais</a>
+Відповідальний за back-end <a target="_blank" href="https://www.linkedin.com/in/andrii-hais-0bb7921b2/">Andrii Hais</a>
 
 ### ⚙️ Tech Stack 
 
@@ -16,27 +16,19 @@
 - Spring Boot
 - JPA/Hibernate
 - Maven
-
-### 📄 Used API
-
-- Нова пошта
-- LiqPay
-- reCAPTCHA
-- Google Maps
-- Cloudinary
 - Google Mail (SMTP)
 
 ### 📄 REST API
 
-Основна частина проекту побудована на шаблонізаторі Thymeleaf, проте для коректного відображення певних елементів були необхідні REST контроллери та endpoint'и. Вся документація доступна за <a target="_blank" href="https://docs.google.com/spreadsheets/d/1L_diRdO5mTP1OB9qdfxEgo3LatoSVP5lnS1HSHyKONk/edit?usp=sharing">посиланням</a>
+Вся документація по REST API доступна за <a target="_blank" href="https://docs.google.com/spreadsheets/d/1UcjlDQHnq6myUV_WvD_uK6Gkun0RhdPCFF9A3TDQlfU/edit#gid=146959206">посиланням</a>
 
-### 🔄 Project Trello Board
+### 🔄 Project Trello Board and Figma Model
 
-Всі кроки розпочинаючи від створення ідеї, певних об'єктно-орієнтованих моделей та перших шаблонів сайту описано <a target="_blank" href="https://trello.com/b/4DHtOHB2/hookahshop">тут</a>
+Всі <a target="_blank" href="https://trello.com/invite/b/AyIPeArm/6299998e09479a4bec87154bddbb09bc/store">кроки</a> розпочинаючи від створення ідеї, певних об'єктно-орієнтованих моделей та перших шаблонів сайту описано <a target="_blank" href="https://www.figma.com/file/kjri3oHZgaOgesQB0V7DiD/store?node-id=0%3A1">тут</a> 
 
 ### 🌠 Socials
 
 Використовуйте дані соціальні мережі для зв'язку зі мною 😉
-- <a target="_blank" href="https://www.instagram.com/anta4bl/">Instagram</a>
-- <a target="_blank" href="https://t.me/nules_dev">Telegram</a>
-- <a target="_blank" href="https://www.linkedin.com/in/anatoliy-taran/">LinkedIn</a>
+- <a target="_blank" href="https://www.instagram.com/boy_boy_paren_palehche//">Instagram</a>
+- <a target="_blank" href="https://t.me/ya0sobenniy">Telegram</a>
+- <a target="_blank" href="https://www.linkedin.com/in/andrii-hais-0bb7921b2/">LinkedIn</a>
