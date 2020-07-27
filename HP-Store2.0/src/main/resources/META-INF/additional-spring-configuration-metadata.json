@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mailText",
+      "type": "java.lang.String",
+      "description": "Description for mailText."
+  }
+] }
