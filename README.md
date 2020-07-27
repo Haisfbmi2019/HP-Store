@@ -34,8 +34,6 @@
 - <a target="_blank" href="https://t.me/ya0sobenniy">Telegram</a>
 - <a target="_blank" href="https://www.linkedin.com/in/andrii-hais-0bb7921b2/">LinkedIn</a>
 
-# Security Policy
-
 ## Supported Versions
 
 | Version | Supported          |
